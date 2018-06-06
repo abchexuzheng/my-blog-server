@@ -1,0 +1,30 @@
+{
+  "name": "koa-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.5.1",
+    "koa-static": "^4.0.3"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-mysql-session": "^0.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^4.0.3",
+    "koa-static-cache": "^5.1.2",
+    "koa-views": "^6.1.4",
+    "markdown-it": "^8.4.1",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "mysql": "^2.15.0"
+  }
+}
